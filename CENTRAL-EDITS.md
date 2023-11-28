@@ -1,10 +1,12 @@
 # This file will contain all central favorite color edits (and hopefully no viruses).
 
-- Andrew Schwartz:
-- Andrew Blumenthal:
+### We may have merge conflicts!! 
+
+- Andrew Schwartz: Blue
+- Andrew Blumenthal: ;laksjf;lkajsf;lajslfjal;fjljflasdkjf;alskdjf;lasdkjf
 - Dennis:
 - Jason:
-- Josh:
+- Josh:Blue
 - Maria:
 - Mario:
 - Miguel:
@@ -12,4 +14,4 @@
 - Sean:
 - Snehal:
 - Sophie: Pink/Purple/Magenta
-- Tymur:
+- Tymur: A C error walks into a bar. Segmentation fault
