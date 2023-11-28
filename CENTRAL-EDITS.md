@@ -8,7 +8,7 @@
 - Jason:
 - Josh:Blue
 - Maria:
-- Mario:
+- Mario: purple
 - Miguel:
 - Morgan:
 - Sean:
