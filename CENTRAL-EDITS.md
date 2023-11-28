@@ -10,6 +10,6 @@
 - Miguel:
 - Morgan:
 - Sean:
-- Snehal:
+- Snehal: My favorite color is Pink 
 - Sophie:
 - Tymur:
