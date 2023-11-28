@@ -10,7 +10,7 @@
 - Maria: Blue
 - Mario: purple
 - Miguel:
-- Morgan:
+- Morgan: Zaffre
 - Sean:
 - Snehal:
 - Sophie: Pink/Purple/Magenta
