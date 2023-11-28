@@ -7,7 +7,7 @@
 - Dennis:
 - Jason: BLUE!
 - Josh:Blue
-- Maria:
+- Maria: Blue
 - Mario: purple
 - Miguel:
 - Morgan:
