@@ -5,7 +5,7 @@
 - Dennis:
 - Jason:
 - Josh:
-- Maria:
+- Maria: Blue
 - Mario:
 - Miguel:
 - Morgan:
