@@ -47,7 +47,7 @@ snarfle_bargle("bloop")
 
 #### Liens vers Nulle Part
 
-[Кликните здесь для больше wobble](https://example.com)
+[Кликните здесь для больше wobble](https://en.wikipedia.org/wiki/Special:Random)
 
 ##### Notas al pie en la Tierra de Flibbertygibbet
 
