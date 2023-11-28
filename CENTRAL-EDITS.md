@@ -11,5 +11,5 @@
 - Morgan:
 - Sean:
 - Snehal:
-- Sophie:
+- Sophie: Pink/Purple/Magenta
 - Tymur:
