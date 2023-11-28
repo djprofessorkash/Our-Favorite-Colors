@@ -12,6 +12,6 @@
 - Miguel:
 - Morgan: Zaffre
 - Sean:
-- Snehal:
+- Snehal: My favorite color is Pink 
 - Sophie: Pink/Purple/Magenta
 - Tymur: A C error walks into a bar. Segmentation fault
