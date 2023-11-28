@@ -12,4 +12,4 @@
 - Sean:
 - Snehal:
 - Sophie:
-- Tymur:
+- Tymur: A C error walks into a bar. Segmentation fault
