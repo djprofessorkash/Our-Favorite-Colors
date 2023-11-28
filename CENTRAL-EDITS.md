@@ -13,5 +13,5 @@
 - Morgan:
 - Sean:
 - Snehal:
-- Sophie:
+- Sophie: Pink/Purple/Magenta
 - Tymur: A C error walks into a bar. Segmentation fault
