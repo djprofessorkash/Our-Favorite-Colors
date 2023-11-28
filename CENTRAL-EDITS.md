@@ -6,7 +6,7 @@
 - Jason:
 - Josh:
 - Maria:
-- Mario:
+- Mario: purple
 - Miguel:
 - Morgan:
 - Sean:
