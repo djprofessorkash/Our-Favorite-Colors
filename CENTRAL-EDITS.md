@@ -5,7 +5,7 @@
 - Andrew Schwartz: Blue
 - Andrew Blumenthal: ;laksjf;lkajsf;lajslfjal;fjljflasdkjf;alskdjf;lasdkjf
 - Dennis:
-- Jason:
+- Jason: BLUE!
 - Josh:Blue
 - Maria:
 - Mario: purple
